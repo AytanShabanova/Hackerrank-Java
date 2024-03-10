@@ -1,2 +1,2 @@
-# Hackrerrank
+# Hackerrank
 Hackerrank/Java Substring
