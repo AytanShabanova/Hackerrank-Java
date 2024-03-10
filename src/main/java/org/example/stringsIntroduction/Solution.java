@@ -1,4 +1,4 @@
-package org.example;
+package org.example.stringsIntroduction;
 
 import java.io.DataInput;
 import java.io.IOException;
