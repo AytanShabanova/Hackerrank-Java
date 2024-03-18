@@ -1,10 +1,6 @@
 package org.example.stringsIntroduction;
 
-import java.io.DataInput;
-import java.io.IOException;
-import java.text.NumberFormat;
-import java.util.List;
-import java.util.Locale;
+
 import java.util.Scanner;
 
 public class Solution {
